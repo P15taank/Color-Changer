@@ -10,4 +10,4 @@
 ## Time Spent
 I spent half an hour to complete this project
 ## Live Link
-Preview the project [Here](https://seewhatyoutypejsproject.netlify.app/)
+Preview the project [Here](https://colorchangerjsprojects.netlify.app/)
